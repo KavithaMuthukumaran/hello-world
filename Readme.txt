@@ -1,7 +1,5 @@
-Hi , This is me,
+Hi I am learning hindi.
 
-I am a programmer
+It is enough to learn english. 
 
-I am leaning github now.
-
-bravo!!!
+Learn maths instead of many languages in India which is not necessary.
